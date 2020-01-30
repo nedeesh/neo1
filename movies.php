@@ -4,10 +4,13 @@
     <nav class="navbar navbar-expand-sm bg-danger navbar-dark">
         <ul class="navbar-nav">
             <li class="nav-item active">
-              <a class="nav-link" href="movies.html">Movie entry</a>
+              <a class="nav-link" href="movies.php">Movie entry</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="search.html">Movie search</a>
+              <a class="nav-link" href="search.php">Movie search</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="edit.php">Movie edit</a>
             </li>
           </ul>
     </nav>
